@@ -119,7 +119,7 @@ async def detect_classification(filePath: str, binary: bool):
 
 
 
-# train으로 get 요청이 왔을 때
+# # train으로 get 요청이 왔을 때
 @app.get("/train")
 # 전이학습 실행
 def transfer_learning(acc: float, loss: float, fscore: float, lr: float, momentum: float, batch: int, set_epoch: int):
