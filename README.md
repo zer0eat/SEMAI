@@ -83,11 +83,6 @@
 
 <hr>
 
-## 팀 소개
-<img src="/docs/team.png" width="400"/>
-
-<hr>
-
 ## 기술스택
 <div align="center">
     <h4>⭐️ Platforms & Languages ⭐️</h4>
